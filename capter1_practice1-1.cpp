@@ -27,7 +27,7 @@
 
 
 //ヘッダインクルード　演習ではこのヘッダをコメントアウトしている
-//#include<iostream>
+#include<iostream>
 
 //使用する名前空間を指定する
 using namespace std;
