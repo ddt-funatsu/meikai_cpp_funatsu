@@ -3,3 +3,9 @@
 *.filters
 *.db
 *.ipch
+*.txt
+*.idb
+*.tlog
+*.db-shm
+*.db-wal
+*.opendb
